@@ -8,7 +8,7 @@ A simple python script for sending a random cat in a personal messages with vkon
 
 #### Setup:
 **0.1** [create](https://vk.com/dev/standalone) standalone vk application  
-**0.2** replace '<application ID>' string in token.html with your application id  
+**0.2** replace 'application ID' string in token.html with your application id  
 **0.3** open token.html and 'Push the button'  
 **0.4** copy access_token value from address line to 'TOKEN' field in sender.properties  
 
